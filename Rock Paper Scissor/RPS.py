@@ -30,11 +30,5 @@ while(keep_playing == "true"):
     x=int(input())
     if x==0:
         keep_playing="false"
-
-
-
-
-
-
-
-
+        
+        
