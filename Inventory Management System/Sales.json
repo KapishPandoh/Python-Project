@@ -1,0 +1,10 @@
+{
+    "1001": {"Name": "Choco Cake", "Quantity": 2, "Amount": 200} ,
+    "1002": {"Name": "Milk Cake", "Quantity": 1, "Amount": 800} ,
+    "1003": {"Name": "Drink", "Quantity": 1, "Amount": 80} ,
+    "1004": {"Name": "Candy", "Quantity": 2, "Amount":20 } ,
+    "1005": {"Name": "Pen", "Quantity": 2, "Amount":10 } ,
+    "1006": {"Name": "NoteBooks", "Quantity": 2, "Amount":90 } ,
+    "1007": {"Name": "Pencil", "Quantity": 2, "Amount":10 } ,
+    "1008": {"Name": "Eraser", "Quantity": 2, "Amount":4 } ,
+}
